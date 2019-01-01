@@ -1,3 +1,5 @@
+/* Printing the sum of the first 101 prime numbers */
+
 public class PrimeNum {
     
     public boolean isPrime(int num) {
